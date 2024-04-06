@@ -1,0 +1,41 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "map.json": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 223.75,
+                "y": 142.875
+            }
+        },
+        "public/map.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.imagePath": "/home/ahmed/Desktop/lab/2d-portfolio/public",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 27,
+    "openFiles": [
+    ],
+    "project": "2d-portfolio.tiled-project",
+    "recentFiles": [
+        "public/map.json",
+        "map.json"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
